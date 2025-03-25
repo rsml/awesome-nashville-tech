@@ -1,48 +1,52 @@
 # Awesome Nashville Tech
 
-Here's a list of events, organizations, slack groups, people, etc that are relevant to the anyone interested in the Nashville tech community
+A collection of resources for techies and entrepreneurs in Nashville. Pull requests happily accepted.
 
 ## Events
 
-[https://nashvilletechbuilders.com/events](Events Calendar)
+[Events Calendar](https://nashvilletechbuilders.com/events)
 
 ## Slack Groups
 
-[https://nashdev.com/slack](NashDev Slack)
-[https://startupnash.com/](Startup Nash)
+[NashDev Slack](https://nashdev.com/slack)  
+[Startup Nash](https://startupnash.com/)
 
 ## Newsletters
 
-[https://zapswrap.beehiiv.com/](Zap's Wrap)
+[Zap's Wrap](https://zapswrap.beehiiv.com/)
 
 ## Coworking Spaces
 
-[Switchyards](https://switchyards.com/nashville-tenn)
-[Music City Work Club](https://www.musiccityworkclub.com/)
-[https://www.aptcowork.com/location/the-melrose](The Melrose)
+[Switchyards](https://switchyards.com/nashville-tenn)  
+[Music City Work Club](https://www.musiccityworkclub.com/)  
+[The Melrose](https://www.aptcowork.com/location/the-melrose)
 
 ## Makerspaces
 
-[https://makenashville.org/](Make Nashville Makerspace)
-[https://www.theforgenashville.org/](The Forge)
+[Make Nashville Makerspace](https://makenashville.org/)  
+[The Forge](https://www.theforgenashville.org/)
 
 ## Organizations
 
-[https://ec.co/](Nashville Entrepreneur Center)
-[https://nashvilletechbuilders.com/](Nashville Tech Builders)
-[https://technologycouncil.com/resources/news/](Greater Nashville Technology Council)
-[https://launchtn.org/](Launch Tennessee)
-[https://healthcarecouncil.com/](Nashville Health Care Council)
-[https://eonashville.com/](EO Nashville)
-[https://technologycouncil.com/events/ntc-peer-groups/tclc/](Tech Community Leaders Council)
+[Nashville Entrepreneur Center](https://ec.co/)  
+[Nashville Tech Builders](https://nashvilletechbuilders.com/)  
+[Launch Tennessee](https://launchtn.org/)  
+[Greater Nashville Technology Council](https://technologycouncil.com/resources/news/)  
+[Nashville Health Care Council](https://healthcarecouncil.com/)  
+[EO Nashville](https://eonashville.com/)  
+[Tech Community Leaders Council](https://technologycouncil.com/events/ntc-peer-groups/tclc/)
 
 ## Special Interest Groups/Organizations
 
-[https://www.wittn.org/](Women in Technology of Tennessee)
-[https://www.meetup.com/blacks-in-technology-nashville/](Blacks in Tennessee)
+[Women in Technology of Tennessee](https://www.wittn.org/)  
+[Blacks in Technology - Nashville](https://www.meetup.com/blacks-in-technology-nashville/)
 
 ## Software Schools
 
-[https://nashvillesoftwareschool.com/](Nashville Software School)
-[https://pivottechschool.com/](Pivot Tech)
-[https://codex.academy/](CodeX Academy)
+[Nashville Software School](https://nashvillesoftwareschool.com/)  
+[Pivot Tech](https://pivottechschool.com/)  
+[CodeX Academy](https://codex.academy/)
+
+## Blogs
+
+[https://www.venturenashville.com/](Venture Nashville Connections)
