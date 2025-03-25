@@ -49,4 +49,4 @@ A collection of resources for techies and entrepreneurs in Nashville. Pull reque
 
 ## Blogs
 
-[https://www.venturenashville.com/](Venture Nashville Connections)
+[Venture Nashville Connections](https://www.venturenashville.com/)
